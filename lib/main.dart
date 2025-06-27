@@ -158,7 +158,6 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            // Výběr období + uložení grafu
             Row(
               children: [
                 ElevatedButton(
@@ -195,7 +194,6 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
             ),
             SizedBox(height: 20),
 
-            // Screenshot + graf
             Expanded(
               child: priceSpots.isEmpty
                   ? Center(child: CircularProgressIndicator())
