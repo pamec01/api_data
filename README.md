@@ -1,16 +1,9 @@
-# api_data
+# Flutter web aplikace
+- aplikace zobrazí graf vývoje ceny bitcoinu
+- možnost zvolení od do
+- základní přepínač light mode/dark mode
+- uložení grafu
 
-A new Flutter project.
+Hlavní soubor v lib/main.dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bitcoin](https://github.com/user-attachments/assets/dc272547-50d1-402b-980d-6bf3332e7924)
