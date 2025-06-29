@@ -4,6 +4,6 @@
 - základní přepínač light mode/dark mode
 - uložení grafu
 
-Hlavní soubor v lib/main.dart
+Hlavní soubory v lib/main.dart
 
 ![bitcoin](https://github.com/user-attachments/assets/dc272547-50d1-402b-980d-6bf3332e7924)
